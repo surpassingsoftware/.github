@@ -1,39 +1,41 @@
 <div align="center">
 
-# Surpassing Software
+# 🌟 Surpassing Software
 
-**Custom software development & consulting**
+**We build software that goes above and beyond — the name's a promise, not a flex.**
 
-We design, build, and ship software that goes beyond the brief — from web apps and APIs to hardware integrations.
+Custom development & consulting for teams who want it done right.
 
-[Website](https://surpassingsoftware.com) · [Contact](mailto:hello@surpassingsoftware.com)
+[🌐 Website](https://surpassingsoftware.com) · [✉️ Say hi](mailto:john@surpassingsoftware.com)
 
 </div>
 
 ---
 
-## What we do
+## 👋 Hey there
 
-We partner with teams to take ideas from concept to production:
+We're a small shop that takes ideas from "wouldn't it be cool if..." all the way to "it's live and people love it." Web apps, APIs, hardware integrations — if it runs on code, we're into it.
 
-- **Product development** — Full-stack web and mobile applications built to last.
-- **APIs & backend systems** — Reliable, well-documented services and integrations.
-- **Hardware + software** — Connecting devices to the cloud, including print and point-of-sale systems.
-- **Technical consulting** — Architecture, code review, and helping teams move faster.
+## 🛠️ What we make
 
-## How we work
+- **🚀 Products** — Full-stack web & mobile apps built to last.
+- **🔌 APIs & backends** — Reliable services and integrations that just work.
+- **🖨️ Hardware + software** — Hooking devices up to the cloud (yes, even the printers).
+- **🧭 Consulting** — Architecture, code reviews, and helping teams ship faster.
 
-- **Clear communication** — You always know where your project stands.
-- **Quality first** — Tested, reviewed, and maintainable code.
-- **Ownership** — We treat your product like our own.
+## 💡 How we roll
 
-## Get in touch
+- **No mystery meetings** — You always know where things stand.
+- **Quality over quick-and-dirty** — Tested, reviewed, and built to maintain.
+- **Your win is our win** — We treat your product like it's our own.
 
-Have a project in mind? We'd love to hear about it.
+## 📬 Let's build something
 
-📧 **hello@surpassingsoftware.com**
-🌐 **[surpassingsoftware.com](https://surpassingsoftware.com)**
+Got a project, an idea, or a half-formed napkin sketch? We're listening.
+
+**✉️ [john@surpassingsoftware.com](mailto:john@surpassingsoftware.com)**
+**🌐 [surpassingsoftware.com](https://surpassingsoftware.com)**
 
 <div align="center">
-<sub>© Surpassing Software</sub>
+<sub>Made with ☕ and questionable amounts of enthusiasm · © Surpassing Software</sub>
 </div>
