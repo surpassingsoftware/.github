@@ -1,8 +1,8 @@
-# Surpassing Software
+# Surpassing Software, LLC
 
 Custom development & consulting for teams who want it done right.
 
-[🌐 Website](https://surpassingsoftware.com) · [✉️ Say hi](mailto:john@surpassingsoftware.com)
+[🌐](https://surpassingsoftware.com) · [✉️](mailto:john@surpassingsoftware.com)
 
 ---
 
