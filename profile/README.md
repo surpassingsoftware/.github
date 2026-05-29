@@ -1,14 +1,8 @@
-<div align="center">
-
-# 🌟 Surpassing Software
-
-**We build software that goes above and beyond — the name's a promise, not a flex.**
+# Surpassing Software
 
 Custom development & consulting for teams who want it done right.
 
 [🌐 Website](https://surpassingsoftware.com) · [✉️ Say hi](mailto:john@surpassingsoftware.com)
-
-</div>
 
 ---
 
